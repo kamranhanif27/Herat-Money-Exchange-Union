@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964136437491",
+    "firebase_url": "https://heratexchangeunion-546a5.firebaseio.com",
+    "project_id": "heratexchangeunion-546a5",
+    "storage_bucket": "heratexchangeunion-546a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964136437491:android:0ae0c9c51c926628441986",
+        "android_client_info": {
+          "package_name": "com.kamran.moneyexchangeunion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964136437491-jgcqej7pn8qve9l6fskm13usg5qd624m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamran.moneyexchangeunion",
+            "certificate_hash": "1b4bf0c13d9bce5087afdf3c6e814989849cce7b"
+          }
+        },
+        {
+          "client_id": "964136437491-ag0l6mckq2juraqko02d6jv0prq7ud7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUSqfgdpPfcc9dXuS440FVy1zM2se4Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964136437491-ag0l6mckq2juraqko02d6jv0prq7ud7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
